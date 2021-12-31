@@ -29,7 +29,7 @@ public class StudentController {
     public String listBooks(Model theModel) {
 
 
-        // get Books from db
+        // get Students from db
         List<Student> theStudents = studentService.findAll();
 
 
