@@ -75,7 +75,7 @@
         <a href="/StudentManagement/logout"
            class="btn btn-primary btn-sm mb-3 mx-auto"> Logout </a>
     </div>
-    
+
 </div>
 
 </body>
